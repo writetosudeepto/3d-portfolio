@@ -2,7 +2,10 @@ function App() {
 
   return (
     <div>
-      Hello world!
+      <Hero />
+      <Who />
+      <Works />
+      <Contact />
     </div>
   )
 }
